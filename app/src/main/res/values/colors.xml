@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3363b0</color>
+    <color name="colorPrimaryDark">#629eef</color>
+    <color name="colorAccent">#B5BAD0</color>
+
+
+    <!--<color name="primarybuttoncolor">#357cce</color>-->
+    <color name="primarybuttoncolor">#ffffff</color>
+<color name="navigation_color">#3363b0</color>
+    <!--<color name="secondarybuttoncolor">#53a4e4</color>-->
+    <color name="secondarybuttoncolor">#50000000</color>
+    <color name="white">#ffffff</color>
+
+    <color name="dashboard_button_textcolor">#FF9F1C</color>
+
+    <color name="navagaion_item_color">#ffffff</color>
+</resources>
